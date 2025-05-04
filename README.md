@@ -5,7 +5,7 @@
 Hello! I'm Lucas, a data analyst focused on transforming data into strategic insights. I have experience with Power BI, Excel, and SQL, working on data extraction, modeling, and visualization. I also leverage Power Platform tools and the Azure ecosystem (such as Azure Data Factory and Azure Data Lake) for data automation and integration. I am constantly striving to improve my skills in data analysis and data science projects.
 
 <p align="left">
-    <a href="https://www.linkedin.com/in/lucasbarnabe/" target="_blank">
+    <a href="https://www.linkedin.com/in/lucas-barnab%C3%A9-98a26316a" target="_blank">
         <img 
             alt="LinkedIn Profile" 
             title="Visit my LinkedIn" 
