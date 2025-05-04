@@ -1,16 +1,66 @@
-## Hi there 👋
+# 📈 Lucas Barnabe
 
-<!--
-**Lucas-Barna/Lucas-Barna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Data Analyst | Power BI • Excel • SQL`**
 
-Here are some ideas to get you started:
+Hello! I'm Lucas, a data analyst focused on transforming data into strategic insights. I have experience with Power BI, Excel, and SQL, working on data extraction, modeling, and visualization. I also leverage Power Platform tools and the Azure ecosystem (such as Azure Data Factory and Azure Data Lake) for data automation and integration. I am constantly striving to improve my skills in data analysis and data science projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://www.linkedin.com/in/lucasbarnabe/" target="_blank">
+        <img 
+            alt="LinkedIn Profile" 
+            title="Visit my LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=0A66C2" 
+        />
+    </a>  
+</p>
+
+---
+
+### 📊 Tools and Technologies
+
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png" 
+/>
+<img 
+    align="left" 
+    alt="Microsoft Excel" 
+    title="Excel" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://img.icons8.com/fluency/48/sql.png" 
+/>
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Power Platform" 
+    title="Microsoft Power Platform" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" 
+/>
+
+<br/><br/>
+
+
+
+
