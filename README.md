@@ -58,7 +58,14 @@ Hello! I'm Lucas, a data analyst focused on transforming data into strategic ins
     style="padding-right: 10px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Microsoft_Power_Platform_logo.svg" 
 />
-
+<img 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  alt="Python" 
+  title="Python" 
+  width="30px" 
+  style="padding-right: 10px;" 
+  align="left"
+/>
 <br/><br/>
 
 
