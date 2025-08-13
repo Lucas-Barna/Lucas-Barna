@@ -66,6 +66,7 @@ Hello! I'm Lucas, a data analyst focused on transforming data into strategic ins
   style="padding-right: 10px;" 
   align="left"
 />
+
 <br/><br/>
 
 
